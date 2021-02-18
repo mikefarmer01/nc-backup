@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copy to /usr/local/bin/
 
 # enable unofficial bash strict mode.
 set -e -o pipefail
